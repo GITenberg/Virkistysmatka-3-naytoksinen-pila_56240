@@ -1,11 +1,16 @@
 _repo: Virkistysmatka-3-naytoksinen-pila_56240
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vuoritsalo, Nuutti
     gutenberg_agent_id: '48736'
     url: http://www.gutenberg.org/2009/agents/48736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56240#Virkistysmatka-3-naytoksinen-pila
 gutenberg_issued: '2017-12-23'
 gutenberg_type: Text
 identifiers:
